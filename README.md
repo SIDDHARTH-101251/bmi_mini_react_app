@@ -1,4 +1,5 @@
 # Effect Hook | Part 2
+<img src="https://res.cloudinary.com/dutyjapri/image/upload/v1734448776/bmi_app_crtczr.png" />
 
 - Persisting Application data
   - Local Storage
